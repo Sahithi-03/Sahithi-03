@@ -40,7 +40,6 @@ Detailed descriptions and documentation are available in the respective reposito
 - Exploring the **psychological aspects** of game mechanics and user interaction within AI-enabled systems  
 - Architecting the **cost vs effectiveness trade-offs** of AI-driven systems to ensure scalability and sustainability  
 - Building the **backend architecture** for the game platform  
-<!--- Collaborating with a friend on an early-stage **SaaS business idea** --> 
 - Working in parallel as a **Python Developer Intern**
 
 ---
@@ -67,7 +66,7 @@ Detailed descriptions and documentation are available in the respective reposito
 
 <!--
 **Sahithi-03/Sahithi-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+- Collaborating with a friend on an early-stage **SaaS business idea** 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
