@@ -26,7 +26,8 @@ Detailed descriptions and documentation are available in the respective reposito
 ---
 
 ### 🛠️ Tools & Skills
-- **Programming:** Python, Java  
+- **Programming:** Python, Java, JavaScript
+- **Frameworks:** Django, FastAPI, Bootstrap, Pandas
 - **Machine Learning:** Classical ML models, deep learning architectures, experimental benchmarking  
 - **Data:** Preprocessing, feature engineering, evaluation pipelines  
 - **Systems:** Backend development, ML model integration, end-to-end ML workflows  
